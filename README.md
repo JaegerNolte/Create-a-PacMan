@@ -9,6 +9,8 @@ browser. Congrats! You can play Create a PacMan!
 
 Future Improvements: I plan to make ghost that will collide with the pacmen, serving as pacmen v. ghost fight.
 
+<img src="./pacmen.png">
+
 License Information:
 
 MIT License
