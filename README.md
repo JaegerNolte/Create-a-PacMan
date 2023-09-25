@@ -1,6 +1,6 @@
 # Pacman Assignment
 
-## Description: The create a Pacman assigment is designed to create an new pacman, once everytime "Add PacMan" is clicked.
+Description: The create a Pacman assigment is designed to create an new pacman, once everytime "Add PacMan" is clicked.
 When the PacMen are on screen they should move across the screen randomly and bounce off edges. 
 
 How to run: First install all associated files of the Repository on GitHub and place them into a individual folder.
